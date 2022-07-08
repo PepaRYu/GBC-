@@ -1,0 +1,5 @@
+/Users/ruslanpepa/GeekBrains/GB_C#/obj/Debug/net6.0/GB_C#.csproj.AssemblyReference.cache
+/Users/ruslanpepa/GeekBrains/GB_C#/obj/Debug/net6.0/GB_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanpepa/GeekBrains/GB_C#/obj/Debug/net6.0/GB_C#.AssemblyInfoInputs.cache
+/Users/ruslanpepa/GeekBrains/GB_C#/obj/Debug/net6.0/GB_C#.AssemblyInfo.cs
+/Users/ruslanpepa/GeekBrains/GB_C#/obj/Debug/net6.0/GB_C#.csproj.CoreCompileInputs.cache
