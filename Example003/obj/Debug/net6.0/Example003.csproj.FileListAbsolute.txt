@@ -1,0 +1,15 @@
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/bin/Debug/net6.0/Example003
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/bin/Debug/net6.0/Example003.deps.json
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/bin/Debug/net6.0/Example003.runtimeconfig.json
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/bin/Debug/net6.0/Example003.dll
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/bin/Debug/net6.0/Example003.pdb
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/obj/Debug/net6.0/Example003.csproj.AssemblyReference.cache
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/obj/Debug/net6.0/Example003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/obj/Debug/net6.0/Example003.AssemblyInfoInputs.cache
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/obj/Debug/net6.0/Example003.AssemblyInfo.cs
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/obj/Debug/net6.0/Example003.csproj.CoreCompileInputs.cache
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/obj/Debug/net6.0/Example003.dll
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/obj/Debug/net6.0/refint/Example003.dll
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/obj/Debug/net6.0/Example003.pdb
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/obj/Debug/net6.0/Example003.genruntimeconfig.cache
+/Users/ruslanpepa/GeekBrains/GB_C#/Example003/obj/Debug/net6.0/ref/Example003.dll
