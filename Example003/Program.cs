@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int numberA = 3;
-int NumberB = 5;
-int result = numberA + NumberB;
-Console.WriteLine(numberA + NumberB);
+int NumberA = new Random().Next(1,10);
+Console.WriteLine(NumberA);
+int NumberB = new Random().Next(1,10);
+Console.WriteLine(NumberB);
+int result = NumberA + NumberB;
+Console.WriteLine(result);
